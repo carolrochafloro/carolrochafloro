@@ -19,6 +19,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e bolsista do programa P
 - Back-end;
 - Git,
 - Inglês avançado.
+- PostgreSQL
+- MySQL
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolrochafloro)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,4 +46,6 @@ I study System Development and software development focused on back-end.
 - Back-end;
 - Git,
 - English (C1)
+- PostgreSQL
+- MySQL
 
