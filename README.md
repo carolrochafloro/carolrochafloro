@@ -16,7 +16,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e bolsista do programa P
 
 **Competências**
 - API REST;
-- Back-end;
 - Git,
 - Inglês avançado.
 - PostgreSQL
@@ -43,7 +42,6 @@ I study System Development and software development focused on back-end.
 
 **Skills**
 - API REST;
-- Back-end;
 - Git,
 - English (C1)
 - PostgreSQL
