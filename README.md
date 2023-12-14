@@ -1,7 +1,12 @@
 # Olá! 🙋‍♀️
 
 #### Meu nome é Carol!
-Sou estudante de Análise e Desenvolvimento de Sistemas e bolsista do programa Potência Tech do IFood cursando Desenvolvimento de Software com foco em back-end na Cubos academy.
+Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período.  
+Formada em Desenvolvimento de Software com foco em back-end pela Cubos Academy com carga horária de 500h.
+
+Atualmente estudando:  
+- Testes unitários (jest);
+- Typescript.
 
 📍 Nova Friburgo, RJ, Brasil.
 
