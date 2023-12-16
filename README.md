@@ -25,6 +25,7 @@ Atualmente estudando:
 - Inglês avançado.
 - PostgreSQL
 - MySQL
+- Google Cloud Platform (básico)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolrochafloro)](https://github.com/anuraghazra/github-readme-stats)
@@ -51,4 +52,4 @@ I study System Development and software development focused on back-end.
 - English (C1)
 - PostgreSQL
 - MySQL
-
+- Google Cloud Platform (basic knowledge)
