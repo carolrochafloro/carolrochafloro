@@ -1,8 +1,12 @@
+**PORTUGUESE | ENGLISH**
+
 # Olá! 🙋‍♀️
 
 #### Meu nome é Carol!
 Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período.  
 Formada em Desenvolvimento de Software com foco em back-end pela Cubos Academy com carga horária de 500h.
+
+##### Projeto mais recente: [API Sistema de gestão financeira Dindin](https://github.com/carolrochafloro/sistema-dindin-gestaofinanceira-cubos)
 
 Atualmente estudando:  
 - Testes unitários (jest);
@@ -34,6 +38,8 @@ Atualmente estudando:
 
 #### I'm Carol!
 I study System Development and software development focused on back-end.
+
+##### Most recent project: [Financial Management System API Dindin](https://github.com/carolrochafloro/sistema-dindin-gestaofinanceira-cubos)
 
 📍 Nova Friburgo, RJ, Brasil, open to remote jobs.
 
