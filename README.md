@@ -6,7 +6,11 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período.  
 Formada em Desenvolvimento de Software com foco em back-end pela Cubos Academy com carga horária de 500h.
 
-##### Projeto mais recente: [API Sistema de gestão financeira Dindin](https://github.com/carolrochafloro/sistema-dindin-gestaofinanceira-cubos)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+Projeto mais recente: [API Sistema de gestão financeira Dindin](https://github.com/carolrochafloro/sistema-dindin-gestaofinanceira-cubos)  
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+Projeto mais recente: [Exercício de POO - Criação e operações em conta bancária (encapsulamento)](https://github.com/carolrochafloro/exercicios-csharp/blob/main/README.md)  
 
 Atualmente estudando:  
 - Testes unitários (jest);
@@ -39,7 +43,11 @@ Atualmente estudando:
 #### I'm Carol!
 I study System Development and software development focused on back-end.
 
-##### Most recent project: [Financial Management System API Dindin](https://github.com/carolrochafloro/sistema-dindin-gestaofinanceira-cubos)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+Most recent project: [Financial management RESTful API](https://github.com/carolrochafloro/sistema-dindin-gestaofinanceira-cubos)  
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+Most recent project: [OOP practice - Bank account creation and operations (Encapsulation)](https://github.com/carolrochafloro/exercicios-csharp/blob/main/README.md)  
 
 📍 Nova Friburgo, RJ, Brasil, open to remote jobs.
 
