@@ -7,7 +7,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período.
 Formada em Desenvolvimento de Software com foco em back-end pela Cubos Academy com carga horária de 500h.
 
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-Projeto mais recente: [API Sistema de gestão financeira Dindin](https://github.com/carolrochafloro/sistema-dindin-gestaofinanceira-cubos)  
+Projeto mais recente: [API de um PDV com PostgreSQL, envio de e-mail e integração com AWS-S3](https://github.com/carolrochafloro/pdv-conclusao-b2b-ifood-cubos)  
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 Projeto mais recente: [Console App de gestão de biblioteca com .NET, Entity Framework Core e SQLite](https://github.com/carolrochafloro/gestao-biblioteca-csharp)  
@@ -44,7 +44,7 @@ Atualmente estudando:
 I study System Development and software development focused on back-end.
 
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-Most recent project: [Financial management RESTful API](https://github.com/carolrochafloro/sistema-dindin-gestaofinanceira-cubos)  
+Most recent project: [Point of Sale (POS) API with PostgreSQL, email sending, and integration with AWS S3](https://github.com/carolrochafloro/pdv-conclusao-b2b-ifood-cubos)  
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 Most recent project: [Library management Console App with .NET, Entity Framework Core, and SQLite.](https://github.com/carolrochafloro/gestao-biblioteca-csharp)  
