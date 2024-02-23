@@ -10,10 +10,9 @@ Formada em Desenvolvimento de Software com foco em back-end pela Cubos Academy c
 Projeto mais recente: [API Sistema de gestão financeira Dindin](https://github.com/carolrochafloro/sistema-dindin-gestaofinanceira-cubos)  
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-Projeto mais recente: [Exercício de POO - Criação e operações em conta bancária (encapsulamento)](https://github.com/carolrochafloro/exercicios-csharp/blob/main/README.md)  
+Projeto mais recente: [Console App de gestão de biblioteca com .NET, Entity Framework Core e SQLite](https://github.com/carolrochafloro/gestao-biblioteca-csharp)  
 
 Atualmente estudando:  
-- Testes unitários (jest);
 - Typescript.
 
 📍 Nova Friburgo, RJ, Brasil.
@@ -34,6 +33,7 @@ Atualmente estudando:
 - PostgreSQL
 - MySQL
 - Google Cloud Platform (básico)
+- AWS-S3 (básico)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolrochafloro)](https://github.com/anuraghazra/github-readme-stats)
@@ -47,7 +47,7 @@ I study System Development and software development focused on back-end.
 Most recent project: [Financial management RESTful API](https://github.com/carolrochafloro/sistema-dindin-gestaofinanceira-cubos)  
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-Most recent project: [OOP practice - Bank account creation and operations (Encapsulation)](https://github.com/carolrochafloro/exercicios-csharp/blob/main/README.md)  
+Most recent project: [Library management Console App with .NET, Entity Framework Core, and SQLite.](https://github.com/carolrochafloro/gestao-biblioteca-csharp)  
 
 📍 Nova Friburgo, RJ, Brasil, open to remote jobs.
 
@@ -61,9 +61,10 @@ Most recent project: [OOP practice - Bank account creation and operations (Encap
 
 
 **Skills**
-- API REST;
-- Git,
+- API REST
+- Git
 - English (C1)
 - PostgreSQL
 - MySQL
 - Google Cloud Platform (basic knowledge)
+- AWS-S3 (basic)
