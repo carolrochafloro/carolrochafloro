@@ -5,6 +5,7 @@
 #### Meu nome é Carol!
 Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período.  
 Formada em Desenvolvimento de Software com foco em back-end pela Cubos Academy com carga horária de 500h.
+Residente em TIC - Software pelo Serratec.
 
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 Projeto mais recente: [API de um PDV com PostgreSQL, envio de e-mail e integração com AWS-S3](https://github.com/carolrochafloro/pdv-conclusao-b2b-ifood-cubos)  
@@ -12,8 +13,6 @@ Projeto mais recente: [API de um PDV com PostgreSQL, envio de e-mail e integraç
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 Projeto mais recente: [Console App de gestão de biblioteca com .NET, Entity Framework Core e SQLite](https://github.com/carolrochafloro/gestao-biblioteca-csharp)  
 
-Atualmente estudando:  
-- Typescript.
 
 📍 Nova Friburgo, RJ, Brasil.
 
