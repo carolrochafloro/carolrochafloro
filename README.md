@@ -6,17 +6,13 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período e desenvolvedora fullstack trainee.
 
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-Projeto mais recente: [API de um PDV com PostgreSQL, envio de e-mail e integração com AWS-S3](https://github.com/carolrochafloro/pdv-conclusao-b2b-ifood-cubos)  
+Projeto mais recente: [API REST desenvolvida em equipe para o Programa de Formação da FCamara com node.js e integração com AWS-S3](https://github.com/carolrochafloro/teste-deploy)  
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-Projeto mais recente: [Console App de gestão de biblioteca com .NET, Entity Framework Core e SQLite](https://github.com/carolrochafloro/gestao-biblioteca-csharp)  
+Projeto mais recente: [API com Asp.NET Core e Entity Framework Core](https://github.com/carolrochafloro/api-produtos-csharp)  
 
 
-📍 Nova Friburgo, RJ, Brasil.
-
-**Nesse perfil adiciono:**  
-💻 Projetos  
-📖 Anotações das aulas e estudos   
+📍 Nova Friburgo, RJ, Brasil. 
 
 **Linguagens, frameworks e libraries**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -24,13 +20,15 @@ Projeto mais recente: [Console App de gestão de biblioteca com .NET, Entity Fra
 
 
 **Competências**
-- API REST;
-- Git,
+- Desenvolvimento em .NET;
+- SQL;
+- Desenvolvimento de API Rest em .NET e node.js;
+- Microservices;
+- Entity Framework Core;
+- Versionamento de código;
+- PostgreSQL;
+- React;
 - Inglês avançado.
-- PostgreSQL
-- MySQL
-- Google Cloud Platform (básico)
-- AWS-S3 (básico)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolrochafloro)](https://github.com/anuraghazra/github-readme-stats)
@@ -41,16 +39,12 @@ Projeto mais recente: [Console App de gestão de biblioteca com .NET, Entity Fra
 I study System Development and software development focused on back-end.
 
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-Most recent project: [Point of Sale (POS) API with PostgreSQL, email sending, and integration with AWS S3](https://github.com/carolrochafloro/pdv-conclusao-b2b-ifood-cubos)  
+Most recent project: [REST API developed by my squad for the FCamara Training Program with node.js and integration with AWS-S3.](https://github.com/carolrochafloro/teste-deploy)  
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-Most recent project: [Library management Console App with .NET, Entity Framework Core, and SQLite.](https://github.com/carolrochafloro/gestao-biblioteca-csharp)  
+Most recent project: [API using Asp.NET Core and Entity Framework Core](https://github.com/carolrochafloro/api-produtos-csharp)  
 
 📍 Nova Friburgo, RJ, Brasil, open to remote jobs.
-
-**Here you'll find**  
-💻 Personal projects  
-📖 Class notes    
 
 **Languages, frameworks and libraries**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
