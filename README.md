@@ -21,13 +21,10 @@ Projeto mais recente: [API com Asp.NET Core e Entity Framework Core](https://git
 
 **Skills**
 - Desenvolvimento em .NET;
-- SQL;
-- Desenvolvimento de API Rest em .NET e node.js;
+- Node.js
 - Microservices;
 - Entity Framework Core;
-- Versionamento de código;
 - PostgreSQL;
-- React;
 - Inglês avançado (C1).
 
   **Soft skills**
