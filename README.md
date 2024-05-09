@@ -9,7 +9,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período e desenv
 Projeto mais recente: [API REST desenvolvida em equipe para o Programa de Formação da FCamara com node.js e integração com AWS-S3](https://github.com/carolrochafloro/teste-deploy)  
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-Projeto mais recente: [API com Asp.NET Core e Entity Framework Core](https://github.com/carolrochafloro/api-produtos-csharp)  
+Projeto mais recente: [ATask Timer - API com ASP.NET Core](https://github.com/carolrochafloro/task-timer)  
 
 
 📍 Nova Friburgo, RJ, Brasil. 
@@ -48,7 +48,7 @@ I'm a systems analysis and development student and a trainee fullstack developer
 Most recent project: [REST API developed by my squad for the FCamara Training Program with node.js and integration with AWS-S3.](https://github.com/carolrochafloro/teste-deploy)  
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-Most recent project: [API using Asp.NET Core and Entity Framework Core](https://github.com/carolrochafloro/api-produtos-csharp)  
+Most recent project: [Task Timer - API using Asp.NET Core](https://github.com/carolrochafloro/task-timer)  
 
 📍 Nova Friburgo, RJ, Brasil, open to remote jobs.
 
