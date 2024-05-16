@@ -22,7 +22,6 @@ Projeto mais recente: [Task Timer - API com ASP.NET Core](https://github.com/car
 **Skills**
 - Desenvolvimento em .NET;
 - Node.js
-- Microservices;
 - Entity Framework Core;
 - PostgreSQL;
 - Inglês avançado (C1).
