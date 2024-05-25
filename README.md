@@ -9,8 +9,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período e desenv
 Projeto mais recente: [API REST desenvolvida em equipe para o Programa de Formação da FCamara com node.js e integração com AWS-S3](https://github.com/carolrochafloro/teste-deploy)  
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-[Task Timer - API com ASP.NET Core](https://github.com/carolrochafloro/task-timer) 
-[Microservices com RabbitMQ](https://github.com/carolrochafloro/microservices-email-rabbitmq)
+[Task Timer - API com ASP.NET Core](https://github.com/carolrochafloro/task-timer)   
+[Microservices com RabbitMQ](https://github.com/carolrochafloro/microservices-email-rabbitmq)  
 
 
 📍 Nova Friburgo, RJ, Brasil. 
