@@ -3,7 +3,7 @@
 # Olá! 🙋‍♀️
 
 #### Meu nome é Carol!
-Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período e desenvolvedora fullstack trainee.
+Sou estudante de Análise e Desenvolvimento de Sistemas no 3º período e desenvolvedora fullstack.
 
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 [API REST desenvolvida em equipe para o Programa de Formação da FCamara com node.js e integração com AWS-S3](https://github.com/carolrochafloro/teste-deploy)    
