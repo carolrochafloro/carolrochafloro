@@ -1,7 +1,7 @@
 # Hello! 🙋‍♀️
 
 #### I'm Carol!
-I'm a 33 year old full-stack software developer, currently studying Systems Analysis and Development. Solving a problem for me is like leveling up in a game, and I strongly believe technology can transform the world for the better.
+I'm a 33 year old full-stack software developer, currently studying Systems Analysis and Development. Solving a problem for me is like leveling up in a game, and I strongly believe technology can transform the world for the better. I have experience with .NET Core and I'm currently learning Go and Angular!
 
 **Check out my portfolio (portuguese and english):  [carolrochafloro.github.io](https://carolrochafloro.github.io/)**
 
@@ -24,5 +24,3 @@ I'm a 33 year old full-stack software developer, currently studying Systems Anal
   - Organized;
   - Resilient;
   - English speaking: C1.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolrochafloro)](https://github.com/anuraghazra/github-readme-stats)
