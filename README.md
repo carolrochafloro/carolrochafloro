@@ -14,7 +14,7 @@ I'm a 33 year old full-stack software developer, currently studying Systems Anal
 [MVC and worker com RabbitMQ](https://github.com/carolrochafloro/microservices-email-rabbitmq)  
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-[Portfolio model](https://github.com/carolrochafloro/curso-angular-portfolio)  
+[Registration site](https://github.com/carolrochafloro/registration-onboarding)  
 
   **Soft skills**
   - Clear and efficient communicator;
