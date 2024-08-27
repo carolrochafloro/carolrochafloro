@@ -25,4 +25,4 @@ I'm a 33 year old full-stack software developer, currently studying Systems Anal
   - Resilient;
   - English speaking: C1.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolrochafloro&hide=html,css,scss,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolrochafloro&hide=html,css,scss,dockerfile,javascript)](https://github.com/anuraghazra/github-readme-stats)
