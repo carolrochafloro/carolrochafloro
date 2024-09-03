@@ -10,11 +10,11 @@ I'm a 33 year old full-stack software developer, currently studying Systems Anal
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 [REST API developed by a team for the FCamara Training Program using node.js and integrated with AWS-S3.](https://github.com/carolrochafloro/teste-deploy)    
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 [MVC and worker com RabbitMQ](https://github.com/carolrochafloro/microservices-email-rabbitmq)  
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-[Registration site](https://github.com/carolrochafloro/registration-onboarding)  
+[Helena - registro de medicamentos](https://github.com/carolrochafloro/Helena-Frontend)  
 
   **Soft skills**
   - Clear and efficient communicator;
