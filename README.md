@@ -1,7 +1,7 @@
 # Hello! 🙋‍♀️
 
 #### I'm Carol!
-I'm a 33 year old software developer currently working at a bank with .NET, RabbitMQ, AzureDevOps and microservices.
+I'm a 34 year old software developer currently working at a bank with .NET, RabbitMQ, AzureDevOps and microservices.
 
 **Check out my portfolio (portuguese and english):  [carolrochafloro.github.io](https://carolrochafloro.github.io/)**
 
